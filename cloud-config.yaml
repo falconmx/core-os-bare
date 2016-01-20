@@ -2,7 +2,7 @@
 hostname: "coreos1"
 users:
   - name: "devops"
-    passwd: "$6$rounds=4096$qLqsUBHocTjDz$rKZ1JCKMIl06bKqXrawX5/2znVEfk91jvQYCQKWsZBAb5WcQDHqaBz3FvwGAeEY/xL3LDiNqp273bIe9/rTn20"
+    passwd: "$6$rounds=4096$2xmXZxRgM$edc5Wx2HtRHQLm4HCn3dUnjhSx1C0KdhhtIGUAYHR91XhtmUCJt0MVqYJnCPoj.3itFKX5oycHM67N.skbDPv1"
     groups:
       - "sudo"
       - "docker"
